@@ -1,0 +1,87 @@
+Feature,Importance,Importance_pct
+policy_tenure,1061,28.71447902571042
+age_of_policyholder,782,21.163734776725303
+age_of_car,568,15.372124492557509
+population_density,242,6.549391069012178
+gross_weight,115,3.1123139377537212
+displacement,74,2.0027063599458725
+height,68,1.8403247631935047
+area_cluster_C18,51,1.3802435723951285
+make,37,1.0013531799729363
+area_cluster_C7,32,0.8660351826792965
+area_cluster_C9,32,0.8660351826792965
+area_cluster_C2,30,0.8119079837618403
+width,30,0.8119079837618403
+model_M5,30,0.8119079837618403
+length,28,0.7577807848443843
+ncap_rating,26,0.7036535859269283
+area_cluster_C3,26,0.7036535859269283
+area_cluster_C17,26,0.7036535859269283
+area_cluster_C12,25,0.6765899864682002
+segment_B2,24,0.6495263870094722
+area_cluster_C8,22,0.5953991880920162
+area_cluster_C14,22,0.5953991880920162
+area_cluster_C16,20,0.5412719891745602
+airbags,20,0.5412719891745602
+area_cluster_C19,19,0.5142083897158322
+area_cluster_C5,19,0.5142083897158322
+steering_type_Power,18,0.4871447902571042
+turning_radius,18,0.4871447902571042
+is_parking_sensors,18,0.4871447902571042
+area_cluster_C21,18,0.4871447902571042
+model_M2,15,0.40595399188092013
+area_cluster_C6,15,0.40595399188092013
+area_cluster_C20,14,0.37889039242219213
+fuel_type_Petrol,14,0.37889039242219213
+area_cluster_C4,14,0.37889039242219213
+area_cluster_C13,12,0.3247631935047361
+cylinder,11,0.2976995940460081
+area_cluster_C11,11,0.2976995940460081
+model_M7,11,0.2976995940460081
+model_M6,11,0.2976995940460081
+is_brake_assist,9,0.2435723951285521
+segment_B1,9,0.2435723951285521
+segment_C1,9,0.2435723951285521
+transmission_type_Manual,8,0.21650879566982412
+is_day_night_rear_view_mirror,8,0.21650879566982412
+is_tpms,6,0.16238159675236805
+is_esc,4,0.10825439783491206
+is_adjustable_steering,4,0.10825439783491206
+is_parking_camera,3,0.08119079837618402
+gear_box,2,0.05412719891745603
+is_front_fog_lights,2,0.05412719891745603
+torque_nm,2,0.05412719891745603
+is_rear_window_washer,0,0.0
+is_rear_window_wiper,0,0.0
+area_cluster_C22,0,0.0
+area_cluster_C15,0,0.0
+is_power_steering,0,0.0
+is_central_locking,0,0.0
+is_rear_window_defogger,0,0.0
+is_speed_alert,0,0.0
+power_bhp,0,0.0
+is_power_door_locks,0,0.0
+is_ecw,0,0.0
+is_driver_seat_height_adjustable,0,0.0
+area_cluster_C10,0,0.0
+model_M11,0,0.0
+model_M4,0,0.0
+model_M10,0,0.0
+segment_Utility,0,0.0
+segment_C2,0,0.0
+model_M9,0,0.0
+model_M8,0,0.0
+model_M3,0,0.0
+fuel_type_Diesel,0,0.0
+engine_type_1.5 L U2 CRDi,0,0.0
+engine_type_1.5 Turbocharged Revotorq,0,0.0
+engine_type_1.2 L K Series Engine,0,0.0
+engine_type_1.2 L K12N Dualjet,0,0.0
+engine_type_F8D Petrol Engine,0,0.0
+engine_type_1.5 Turbocharged Revotron,0,0.0
+engine_type_G12B,0,0.0
+engine_type_K Series Dual jet,0,0.0
+engine_type_i-DTEC,0,0.0
+engine_type_K10C,0,0.0
+rear_brakes_type_Drum,0,0.0
+steering_type_Manual,0,0.0
